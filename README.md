@@ -38,3 +38,4 @@ El notebook está diseñado para ejecutarse en la nube. Requiere configurar la `
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git](https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git)
+   git clone https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git
