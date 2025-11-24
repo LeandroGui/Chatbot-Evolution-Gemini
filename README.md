@@ -45,5 +45,6 @@ El notebook está diseñado para ejecutarse en la nube. Requiere configurar la `
     ```
 3.  Configura tu variable de entorno `GOOGLE_API_KEY`.
 
+
 ✒️ Autor
 Leandro - Desarrollador & Entusiasta de IA
