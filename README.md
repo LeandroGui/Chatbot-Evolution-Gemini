@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange)
 ![LangGraph](https://img.shields.io/badge/Architecture-LangGraph-purple)
+![Pydantic](https://img.shields.io/badge/Data-Pydantic-red)
 
 Este proyecto es un caso de estudio técnico que demuestra la evolución en asistentes conversacionales. A través de tres paradigmas, resolvemos el mismo problema de negocio (gestión de reservas) con tecnologías crecientemente avanzadas.
 
