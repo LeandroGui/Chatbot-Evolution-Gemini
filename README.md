@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YLPflLqQvF3cpSNwbJ92m3SLE13DUU_t?usp=sharing)
-
 # 🚀 Chatbot Evolution: De Scripts a Agentes Autónomos (Gemini 2.5 + LangGraph)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -34,7 +32,9 @@ Implementación de un **Agente ReAct** autónomo.
 ### Opción A: Google Colab (Recomendado)
 El notebook está diseñado para ejecutarse en la nube. Requiere configurar la `GOOGLE_API_KEY` en los "Secretos" de Colab.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YLPflLqQvF3cpSNwbJ92m3SLE13DUU_t?usp=sharing)
+
 ### Opción B: Local
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/Chatbot-Evolution.git](https://github.com/TU_USUARIO/Chatbot-Evolution.git)
+   git clone [https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git](https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git)
