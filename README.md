@@ -39,6 +39,11 @@ El notebook está diseñado para ejecutarse en la nube. Requiere configurar la `
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/LeandroGui/Chatbot-Evolution-Gemini.git
+2.  Instala dependencias:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  Configura tu variable de entorno `GOOGLE_API_KEY`.
 
 ✒️ Autor
-[Leandro] - Desarrollador & Entusiasta de IA
+Leandro - Desarrollador & Entusiasta de IA
