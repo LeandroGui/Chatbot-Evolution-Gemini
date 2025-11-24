@@ -47,4 +47,5 @@ El notebook está diseñado para ejecutarse en la nube. Requiere configurar la `
 
 
 ✒️ Autor
+
 Leandro - Desarrollador & Entusiasta de IA
